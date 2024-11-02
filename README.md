@@ -2,7 +2,7 @@
 
 某天我无聊的时候打开崩坏3的目录看文件，突然发现其中有一个：
 
-One day when I was seeking for files in Honkai Impace 3rd's source files, I found that:
+One day when I was seeking for files in Honkai Impact 3rd's source files, I found that:
 
 ![stdio_dot_dll](stdio_dot_dll.png)
 
