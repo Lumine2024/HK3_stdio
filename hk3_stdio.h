@@ -1,7 +1,7 @@
 #pragma once
 #pragma comment(lib, "hk3_stdio.lib")
 #pragma warning(push)
-#pragma warning(disable:6031 VCR001)
+#pragma warning(disable:6031)
 #ifndef nullptr
 #define nullptr (void*)0
 #endif
